@@ -29,4 +29,4 @@ Estoy en busca de oportunidades en el desarrollo
 > Si quieres crear una aplicación bonita, escalable y funcional,
 > contacta conmigo.
 
-### 🔗 [Mi Portfolio](http://izanaranda.vercel.app)
+### 🔗 [Mi Portfolio (Coming soon)]()
