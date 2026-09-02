@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🐣 Hola! Soy Izan Aranda
 
-<!--
-**adk394/adk394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Soy un desarrollador web fullstack de España
+> a quien le gusta construir experiencias que sean
+> rápidas, accesibles y visuales
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Tengo 19 años. Amo el desarrollo web, diseño UI/UX y la
+logica de backend.
+
+
+Tengo experiencia desarrollando aplicaciones fullstack,
+usando:
+
+`React` `JavaScript` `Astro` `PHP` `Laravel` `Tailwind`
+`JAVA` `SpringBoot` `REST APIs` `MySql` `MariaDB` `Docker`...
+
+
+Actualmente estoy aprendiendo **TypeScript**.
+
+Estoy en busca de oportunidades en el desarrollo
+**Frontend/Backend**.
+
+---
+
+> Si quieres crear una aplicación bonita, escalable y funcional,
+> contacta conmigo.
+
+### 🔗 [Mi Portfolio](http://izanaranda.vercel.app)
