@@ -8,8 +8,7 @@
 
 ## About me
 
-Tengo 19 años. Amo el desarrollo web, diseño UI/UX y la
-logica de backend.
+Tengo 19 años. Amo Desarrollo Full Stack y diseño UI/UX.
 
 
 Tengo experiencia desarrollando aplicaciones fullstack,
