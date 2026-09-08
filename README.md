@@ -8,7 +8,7 @@
 
 ## About me
 
-Tengo 19 años. Amo Desarrollo Full Stack y diseño UI/UX.
+Tengo 19 años. Me encanta el Desarrollo Full Stack y diseño UI/UX.
 
 
 Tengo experiencia desarrollando aplicaciones fullstack,
